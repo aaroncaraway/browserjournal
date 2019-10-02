@@ -20,3 +20,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+.bj_container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+.bj_row {
+  /* border: 1px solid blue; */
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  /* justify-content: center; */
+}
+
+.bj_column {
+  /* border: 2px solid green; */
+  margin: 10px;
+}
